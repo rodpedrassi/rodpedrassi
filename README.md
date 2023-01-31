@@ -1,6 +1,6 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Rodrigo Pedrassi</h1>
 
-- 🔥 Estudante Desenvolvimento Web
+- 🔥 Sou Desenvolvedor Backend 
 
 <br>
 
